@@ -1,6 +1,6 @@
 # 📚 University Notes Repository
 
-Welcome to my repository of notes from my university studies! Here you will find a collection of notes, summaries, and other study materials that I have compiled during my time in university. Please note that I may not update this repository regularly.
+Welcome to my repository of notes from my university studies! Here you will find a collection of notes, summaries, and other study materials that I have compiled during my time in university. Please note that I may not update this repository regularly. You should also note that most of the notes I have are in greek.
 
 ## 💡 How to Use
 
